@@ -1,4 +1,4 @@
-tensorflow>=2.18
+tensorflow>=2.18.0
 streamlit>=1.40
 pillow>=10.0
 numpy>=1.26,<3
